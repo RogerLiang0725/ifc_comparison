@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26887169/README.md)
 # ifc_comparison
 
 `ifc_comparison` provides a lightweight prototype for **IFC-based engineering-oriented comparison** between a reference BIM and a reconstructed BIM.
